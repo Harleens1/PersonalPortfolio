@@ -1,1 +1,5 @@
-# PersonalPortfolio
+# PersonalPortfolio 
+
+Portfolio made with react. 
+
+To run the app use command npm start

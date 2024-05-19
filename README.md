@@ -4,4 +4,6 @@ Portfolio made with react.
 
 To run the app use command npm start 
 
-Still unfinished need to make skills section
+Still unfinished need to make skills section 
+
+Going to finisg tomorrow
